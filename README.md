@@ -2,7 +2,9 @@
 
  I'm a frontend developer who enjoys building things and figuring out how they should work along the way.
 
-🚀 I'm currently building **Mira**.
+🚀 I'm currently building **Mira**, an interactive atlas for discovering the art, history, and people behind places, starting with Rome. Explore the map, read short stories, and follow links to Wikipedia to dive deeper.
+
+👉 [**www.explorewithmira.app**](https://www.explorewithmira.app/)
 
  I mostly work with **TypeScript, React, Next.js, and Tailwind CSS**. I care about good UX, clear code, and shipping something that works before making it fancy.
 
