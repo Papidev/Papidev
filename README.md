@@ -2,6 +2,8 @@
 
  I'm a frontend developer who enjoys building things and figuring out how they should work along the way.
 
+🚀 I'm currently building **Mira**.
+
  I mostly work with **TypeScript, React, Next.js, and Tailwind CSS**. I care about good UX, clear code, and shipping something that works before making it fancy.
 
  As AI gets better at writing code, I'm focusing more on architecture and **Domain-Driven Design**. My goal is to get better at shaping systems, making good decisions, and giving coding agents the right direction — so we can complement each other instead of just generating more code.
